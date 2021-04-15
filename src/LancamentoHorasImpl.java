@@ -17,7 +17,7 @@ import br.com.hitssembratel.bpo.util.RoboUtil;
 @Service
 public class LancamentoHorasImpl extends BaseServiceImpl implements LancamentoHorasService {
 
-
+	// outro commit 
 	@Value("${prop.horas.user}")
 	String usuario;
 
